@@ -1,8 +1,13 @@
 body {
-    background-color: rgb(137, 200, 137);
-    font-family:'Courier New', Courier, monospace;
+    background-image: url("https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/325/broccoli_1f966.png");
+    background-color: rgba(0, 148, 0, 0.517);
+    background-repeat: repeat;
+    
+    text-align: center;
+    font-size: 30px;
 }
 
-img{
-    background-color: rgba(0, 128, 0, 0.583);
+h1, p{
+    background-color:rgba(0, 209, 0, 0.546);
+    color:rgb(252, 235, 235);
 }
